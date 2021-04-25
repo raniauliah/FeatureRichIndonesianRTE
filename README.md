@@ -7,6 +7,11 @@ Recognizing Textual Entailment (RTE) is a task in Natural Language Processing th
 The dataset used in this paper is **WRETE Dataset** that can be accessed [here](https://github.com/indobenchmark/indonlu/tree/master/dataset/wrete_entailment-ui). 
 We only used the train data for the training process and test data to test the model. As explained on the paper, the class distribution in shown below
 
+## Resource
+**Word2vec Model**: [idwiki_word2vec_300.model](https://drive.google.com/file/d/1uuRSTsKpB3lbKYDYLIuCpLukBzKiipOS/view?usp=sharing)
+
+**Pretrained Model POS Tagger**: [CRF Tagger](https://drive.google.com/open?id=12yJ82GzjnqzrjX14Ob_p9qnPKtcSmqAx) -- [read more](https://yudiwbs.wordpress.com/2018/02/20/pos-tagger-bahasa-indonesia-dengan-pytho/)
+
 ## Environment
 This work was implemented on [Google Colaboratory](https://colab.research.google.com/)
 
