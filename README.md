@@ -1,5 +1,5 @@
 # Feature Rich Indonesian RTE
-This is Python implementation for the work that accepted on ACLing 2021 with paper entitled, "A Feature-Rich Classifier for Recognizing Textual Entailment in Indonesian".
+This is Python implementation for the work that accepted and presented on ACLing 2021 with paper entitled, "Feature-Rich Classifiers for Recognizing Textual Entailment in Indonesian".
 
 Recognizing Textual Entailment (RTE) is a task in Natural Language Processing that can be used to determine the entailment of a sentence from another sentence. In this work we extract 35 features from a pair of text (T) and hypothesis (H) in Indonesian. We aim to solve the RTE task in Indonesian using a feature-rich classifier. 
 
