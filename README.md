@@ -6,7 +6,7 @@ Recognizing Textual Entailment (RTE) is a task in Natural Language Processing th
 
 ## Dataset
 The dataset used in this paper is **WRETE Dataset** that can be accessed [here](https://github.com/indobenchmark/indonlu/tree/master/dataset/wrete_entailment-ui). 
-We only used the train data for the training process and test data to test the model. As explained on the paper, the class distribution in shown below
+We only used the train data for the training process and test data to test the model.
 
 ## Resource
 **Word2vec Model**: [idwiki_word2vec_300.model](https://drive.google.com/file/d/1uuRSTsKpB3lbKYDYLIuCpLukBzKiipOS/view?usp=sharing)
